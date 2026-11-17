@@ -1,4 +1,4 @@
-# Need for Speed: Underground 2 in the browser
+# Need for Speed: Underground 2 in the browser (THIS IS A FORK, ORIGINAL REPO= https://github.com/th0mk/nfsu2-web)
 
 > [!IMPORTANT]
 > This repository is archived. nfsu2.xyz keeps running and getting updates, but from 9 November 2026 development
